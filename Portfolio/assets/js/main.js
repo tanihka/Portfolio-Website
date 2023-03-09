@@ -116,7 +116,7 @@ const scrollActive = () =>{
 window.addEventListener('scroll', scrollActive)
 
 
-/*=============== SHOW SCROLL UP ===============*/ 
+/*===================== SHOW SCROLL UP =====================*/ 
 
 const scrollUp = () =>{
 	const scrollUp = document.getElementById('scroll-up')
